@@ -1,0 +1,63 @@
+
+好用的 Telegram 中文包推荐
+
+简体中文（官方 Beta版）：https://t.me/setlanguage/zh-hans-raw
+繁体中文 (官方 Beta版):https://t.me/setlanguage/zh-hant-raw
+简体中文(聪聪):https://t.me/setlanguage/zhcncc
+简体中文(@zh_CN 版):https://t.me/setlanguage/classic-zh-cn
+简体中文(langCN):https://t.me/setlanguage/zhlangcn
+简体中文(瓜体):https://t.me/setlanguage/duang-zh-cn
+简体中文(小哇):https://t.me/setlanguage/qingwa
+喵体中文 （ @MiaoCN ）:https://t.me/setlanguage/meowcn
+中文（香港）:https://t.me/setlanguage/hongkong
+台湾繁体：https://t.me/setlanguage/zh-hant-beta
+台湾正体:https://t.me/setlanguage/taiwan
+郭桓桓的繁體中文語言包:https://t.me/setlanguage/zhong-taiwan-traditional
+文言:https://t.me/setlanguage/chinese-ancient
+
+怎么设置 Telegram 为中文呢？
+Telegram 设置为中文十分简单，只需要点击以下中文汉化包链接，跳转到 Telegram 软件内，点击一下确认按钮，就好了。
+
+也可以通过导入语言包的压缩包进行语言切换，不过此方式不适合大多数 Telegram 用户，更多的是为开发者准备的。
+
+
+-----------------------下面是个人使用的最新翻译版本-汉化中文体验很好----------------------------------
+使用方式同上图教程：
+直接点击链接更改语言: tg://setlanguage?lang=zhcncc
+* 支持 Telegram for iOS/Android/macOS/Desktop, Telegram X for iOS/Android 官方客户端
+* 支持 Nicegram/Plus Messager/Unigram 第三方客户端
+* Telegram 官网网页版不能使用语言包.
+语言包交流群组: @yxbjx @translation_zhcncc
+如果翻译不对或有异议或未翻译到的地方,可以在群组中交流讨论,谢谢！
+如果遇到不能更改语言包, 先把Telegram客户端升级新版,
+下载→https://t.me/yxbjx/432103
+-----------------------------------------
+各个语言包:
+* 中文(简体)-聪聪: tg://setlanguage?lang=zhcncc
+* 中文(简体)-@zh_CN: tg://setlanguage?lang=classic-zh-cn
+* 中文(简体)-简体: tg://setlanguage?lang=classic-zh
+* 中文(简体)-langCN: tg://setlanguage?lang=zhlangcn
+* 中文(简体)-zh-hans: tg://setlanguage?lang=zh-hans-beta
+* 中文(简体)-瓜体: tg://setlanguage?lang=duang-zh-cn
+* 中文(简体)-小哇: tg://setlanguage?lang=qingwa
+* 中文(简体)-江湖中文版: tg://setlanguage?lang=jianghu
+* 中文(简体)-: tg://setlanguage?lang=cnsimplified
+* 中文(简体)-@MiaoCN: tg://setlanguage?lang=meowcn
+* 中文(简体)-简体字: tg://setlanguage?lang=jiantizi
+* 中文(香港)-繁体1: tg://setlanguage?lang=hongkong
+* 中文(香港)-繁体2: tg://setlanguage?lang=zhhant-hk
+* 中文(香港)-繁体3: tg://setlanguage?lang=zh-hant-raw
+* 中文(香港)-人口语: tg://setlanguage?lang=hongkonger
+* 中文(香港)-广东话1: tg://setlanguage?lang=zhhkpb1
+* 中文(香港)-广东话2: tg://setlanguage?lang=hkcantonese
+* 中文(香港)-郭桓桓: tg://setlanguage?lang=zhong-taiwan-traditional
+* 中文(台灣)-正体: tg://setlanguage?lang=taiwan
+* 中文(台灣)-繁体: tg://setlanguage?lang=zh-hant-beta
+* 中文(台灣)-文言: tg://setlanguage?lang=chinese-ancient
+* 中文(台灣)-文言: tg://setlanguage?lang=chinese-literary
+* 中文(台灣)-魔法師: tg://setlanguage?lang=encha
+* 日文: tg://setlanguage?lang=ja-beta
+说明:
+Telegram 官方只开放了语言包翻译接口, 官方没有提供中文语言包
+目前所有的中文语言包都是非官方用户翻译的
+有些语言包都很久没更新了(甚至停更了)。
